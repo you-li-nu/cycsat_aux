@@ -14,19 +14,19 @@
 
 * install dependencies:
 
-'''Bash
+```Bash
 sudo apt-get install gcc-5  
 sudo apt-get install g++-5  
-'''
+```
 
-'''Bash
+```Bash
 sudo apt-get install flex-old bison  
 sudo apt-get install libboost-all-dev
-'''
+```
 
 * build cudd-2.5.0
 
-'''Bash
+```Bash
 cd source/cudd-2.5.0/  
 make clean  
 make  
@@ -34,11 +34,11 @@ cd obj
 make clean  
 make  
 cd ../../..
-'''
+```
 
 * build minisat
 
-'''Bash
+```Bash
 cd source/minisat  
 export MROOT=$PWD  
 cd core  
@@ -56,24 +56,24 @@ cd build
 make clean  
 make  
 cd ../../..
-'''
+```
 
 * build lingeling* 
 
-'''Bash
+```Bash
 cd source/lingeling/  
 ./configure.sh    
 make clean  
 make  
 cd ../..
-'''
+```
 
 * clean repository
 
-'''Bash
+```Bash
 cd source/src/  
 make clean
-'''
+```
 
 * install CPLEX
 
@@ -83,16 +83,16 @@ or obtain from [Baidu Disk](https://pan.baidu.com/s/1ONiOS_hS9mFBk7AJ6kTjgw)
 
 after installation,
 
-'''Bash
+```Bash
 cd source/src/
-'''
+```
 
 modify makefile entries to include your CPLEX paths:
 
-'''Bash
+```Bash
 $ CPLEXINCLUDE:  
 $ CPLEXLIBRARIES:
-'''
+```
 
 * build project
 
@@ -102,9 +102,9 @@ make
 
 * run a test case
 
-'''Bash
+```Bash
 ./sld ../../benchmarks/rnd/c880_enc50.bench ../../benchmarks/original/c880.bench
-'''
+```
 
 
 ### Cite this repository:
