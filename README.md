@@ -109,20 +109,20 @@ make
 
 ### Cite this repository:
 
-@inproceedings{shen2019besat,
-  title={BeSAT: behavioral SAT-based attack on cyclic logic encryption},
-  author={Shen, Yuanqi and Li, You and Rezaei, Amin and Kong, Shuyu and Dlott, David and Zhou, Hai},
-  booktitle={Proceedings of the 24th Asia and South Pacific Design Automation Conference},
-  pages={657--662},
-  year={2019},
-  organization={ACM}
+@inproceedings{shen2019besat,  
+  title={BeSAT: behavioral SAT-based attack on cyclic logic encryption},  
+  author={Shen, Yuanqi and Li, You and Rezaei, Amin and Kong, Shuyu and Dlott, David and Zhou, Hai},  
+  booktitle={Proceedings of the 24th Asia and South Pacific Design Automation Conference},  
+  pages={657--662},  
+  year={2019},  
+  organization={ACM}  
 }
 
-@inproceedings{rezaei2019cycsat,
-  title={CycSAT-unresolvable cyclic logic encryption using unreachable states},
-  author={Rezaei, Amin and Li, You and Shen, Yuanqi and Kong, Shuyu and Zhou, Hai},
-  booktitle={Proceedings of the 24th Asia and South Pacific Design Automation Conference},
-  pages={358--363},
-  year={2019},
-  organization={ACM}
+@inproceedings{rezaei2019cycsat,  
+  title={CycSAT-unresolvable cyclic logic encryption using unreachable states},  
+  author={Rezaei, Amin and Li, You and Shen, Yuanqi and Kong, Shuyu and Zhou, Hai},  
+  booktitle={Proceedings of the 24th Asia and South Pacific Design Automation Conference},  
+  pages={358--363},  
+  year={2019},  
+  organization={ACM}  
 }
