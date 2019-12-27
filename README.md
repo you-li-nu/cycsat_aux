@@ -96,9 +96,9 @@ $ CPLEXLIBRARIES:
 
 * build project
 
-'''Bash
+```Bash
 make
-'''
+```
 
 * run a test case
 
