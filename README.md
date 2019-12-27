@@ -44,11 +44,11 @@ export MROOT=$PWD
 cd core  
 make libr  
 cd ../../..
-'''
+```
 
 * build CryptoMinisat
 
-'''Bash
+```Bash
 cd source/cmsat-2.9.9/  
 mkdir build  
 cd build  
@@ -58,7 +58,7 @@ make
 cd ../../..
 ```
 
-* build lingeling* 
+* build lingeling
 
 ```Bash
 cd source/lingeling/  
