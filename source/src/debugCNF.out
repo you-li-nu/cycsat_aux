@@ -1,0 +1,27 @@
+p cnf 0 0
+c 
+c ---------
+c unitaries
+c ---------
+c 
+c ---------------------------------------
+c clauses representing 2-long XOR clauses
+c ---------------------------------------
+c 
+c ------------
+c binary clauses
+c ---------------
+c 
+c ------------
+c normal clauses
+c ---------------
+c 
+c ------------
+c xor clauses
+c ---------------
+c -------------------------------
+c previously eliminated variables
+c -------------------------------
+c -------------------------------
+c previously xor-eliminated variables
+c -------------------------------
