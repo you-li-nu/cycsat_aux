@@ -103,7 +103,7 @@ make
 * run a test case
 
 ```Bash
-./sld ../../benchmarks/rnd/c880_enc50.bench ../../benchmarks/original/c880.bench
+./sld ../../benchmarks/cyclic_benchmarks/set1/apex2.cyc.bench ../../benchmarks/original/apex2.bench
 ```
 
 
