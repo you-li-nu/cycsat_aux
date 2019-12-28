@@ -61,9 +61,9 @@ cd ../../..
 * build lingeling
 
 ```Bash
-cd source/lingeling/  
-./configure.sh    
-make clean  
+cd source/lingeling/ 
+make clean   
+./configure.sh  
 make  
 cd ../..
 ```
